@@ -11,6 +11,4 @@
 
 ## Demo parking space picker 
 
-!Picker Demo(picker_demo.gif)
-
-
+![Picker Demo](picker_demo.gif)
